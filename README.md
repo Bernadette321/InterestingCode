@@ -1,2 +1,3 @@
 # InterestingCode
-Implement some interesting code
+
+Collect some interesting code
